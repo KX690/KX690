@@ -98,7 +98,7 @@ Pequeña app tipo “to-do” donde en vez de tareas se guardan **enlaces con co
 
 ## 📫 Contact
 
-- 📧 **Email:** tu-email@ejemplo.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/tu-perfil/  
+- 📧 **Email:** kevin_lezcano680@gmail.com  
+- 💼 **LinkedIn:** www.linkedin.com/in/kevin-lezcano-774868260 
 
 Si querés hablar sobre Java, Spring, Angular o arquitectura de sistemas, ¡siempre abierto a conectar! 🙂
