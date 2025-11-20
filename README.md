@@ -72,7 +72,7 @@ Pequeña app tipo “to-do” donde en vez de tareas se guardan **enlaces con co
 - Normalización, claves primarias y foráneas, scripts de creación e inserts.  
 - Pensado para integrarse con un backend en Java / Spring.
 
-🔗 Repo académico (cuando lo tengas público, poné el link aquí).
+🔗 Repo académico.
 
 ---
 
