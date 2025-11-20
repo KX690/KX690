@@ -12,7 +12,6 @@
 
 ## 🧠 About Me
 
-- 🎓 Estudiante de Ingeniería de Software.  
 - 🛠 Desarrollador backend con foco en **Java 17, Spring Boot 3, MyBatis, SQL**.  
 - 🌐 Aprendiendo y practicando **Angular 17/18** para completar el stack full-stack.  
 - 🚛 Experiencia en sistemas reales: logística, pesaje, facturación electrónica, reportes PDF/Excel.  
