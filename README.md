@@ -56,7 +56,6 @@
 
 ## 📂 Featured Projects
 
-> *(Si algún repo es privado, podés dejarlo indicado igual, muestra experiencia real.)*
 
 ### 🔹 Angular – To-Do Links App
 Pequeña app tipo “to-do” donde en vez de tareas se guardan **enlaces con comentarios**.
