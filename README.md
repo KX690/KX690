@@ -63,7 +63,7 @@ Pequeña app tipo “to-do” donde en vez de tareas se guardan **enlaces con co
 - Uso de servicios, modelos y LocalStorage.
 - Ideal para practicar componentes, bindings y comunicación servicio-componente.
 
-🔗 Repo: [`mi-app-angular17`](https://github.com/KX690/mi-app-angular17)
+🔗 Repo: [`to-do-with-angular17-2025`](https://github.com/KX690/to-do-with-angular17-2025)
 
 ---
 
@@ -76,7 +76,7 @@ Pequeña app tipo “to-do” donde en vez de tareas se guardan **enlaces con co
 
 ---
 
-### 🔹 Sistemas Logísticos / Pesaje (SGD) – Backend Java
+### 🔹 Sistemas Logísticos – Backend Java
 - Servicios REST con Spring Boot.  
 - Mappeo complejo de JSON con Jackson (@JsonProperty, @JsonAlias).  
 - Integración con **PDFBox**, **Apache POI**, **JasperReports** para tickets y reportes.  
